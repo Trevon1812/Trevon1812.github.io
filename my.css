@@ -1,0 +1,232 @@
+html {
+    font-family: Helvetica;
+    margin:0;
+padding:0;
+overflow-x:hidden;
+}
+body {
+    margin:0;
+    padding:0;
+    margin:0;
+padding:0;
+overflow-x:hidden;
+}
+nav {
+   
+    background-image: url(Header.png);
+    width: auto;
+    height:1300px;
+    background-repeat: no-repeat;
+  
+    background-size: contain;
+}
+ul {
+position: relative;
+left: 1000px;
+    display: inline-flex;
+    color: white;
+    list-style: none;
+    
+}
+li {
+    margin-right: 30px;
+}
+.join {
+    position: relative;
+    right: -1100px;
+    color: white;
+    background-color: #56ACE0;
+    border-style: none;
+    height:40px;
+    width:100px;
+    border-radius:10px;
+}
+.herotext {
+position: relative;
+top: -1050px;
+right: -800px;
+color: white;
+font-weight: bolder;
+text-shadow: 4px 4px 4px black ;
+}
+.specials {
+    font-size:60px;
+    
+}
+.hero {
+    font-size: 30px;
+     
+}
+.bar {
+    position: relative;
+    top: -943px;
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+.free {
+    position: relative;
+    text-align: center;
+    top: 50px;
+    color:white;
+   font-size:70px;
+}
+.pass {
+    position: relative;
+    left:1380px;
+    top: -80px;
+background-color: #56ACE0;
+color:white;
+border-style: none;
+height:60px;
+    width:200px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.vl {
+    border-left:0.5px gray;
+    height: 100px;
+}
+.location {
+    position:relative;
+    top:-150px;
+    height: 200px;
+    width: 200px;
+}
+.locate {
+    position: relative;
+    left: -200px;
+}
+.closest {
+    position: relative;
+    left: 250px;
+    top: -330px;
+    font-size: 30px;
+    margin-top: 15px;
+}
+#find {
+    color:gray;
+    font-size: 30px;
+}
+#khalid {
+    position:relative;
+   margin-top: -20px;
+   margin-bottom: -10px;
+    color: #56ACE0;
+    font-size: 60px;
+}
+.sec1 {
+    position:relative;
+    left: 160px;
+    top:-751px;
+}
+.sec2 {
+    position: relative;
+    left: 1350px;
+    top: -1245px;
+}
+#touchfree {
+    color:#56ACE0;
+    font-size: 60px;
+    margin-top: -20px;
+    margin-bottom:-10px;
+}
+#checkin {
+    position: relative;
+    color:gray;
+    right: -110px;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.down {
+    position:relative;
+    left: 68px;
+    font-size: 30px;
+    margin-top: -10px;
+}
+#near {
+    position: relative;
+    left: 306px;
+}
+.bartwo {
+    position: relative;
+    top: -1212px;
+    width:100%;
+    height: 150px;
+    background-color:#BFBAC3;
+}
+.sec3 {
+    position: relative;
+    left: -150px;
+    top: 60px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    
+}
+.pass2 {
+    position: relative;
+    left: 1017px;
+    top: -15px;
+    background-color: #56ACE0;
+color:white;
+border-style: none;
+height:60px;
+    width:200px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.Why {
+   position: relative;
+   top:-1135px;
+   
+}
+.bestgym {
+    position: relative;
+    left:53px;
+    color: #7A7A7A;
+    font-size: 50px;
+}
+.para1 {
+    position: relative;
+    left:53px;
+    font-size: 25px;
+}
+.classes {
+    position: relative;
+    top: -800px;
+}
+.bg {
+    position: relative;
+    top: -275px;
+    left:53px;
+    width: 450px;
+    height: 450px;
+}
+hr {
+    position: relative;
+    top: -1067px;
+    left: -41px;
+    width:90%;
+    height:5px;
+    background-color:#56ACE0;
+    border-style: none;
+}
+.para2 {
+    position: relative;
+    top: -600px;
+    left: 205px;
+    text-align: center;
+    font-size: 20px;
+}
+button:hover {
+    background-color:#478FBB;
+}
+
+ul :hover {
+    text-decoration: underline;
+}
+.bg:hover{
+    filter: grayscale(50%);
+    box-shadow: 4px 4px 5px #7A7A7A;
+}
